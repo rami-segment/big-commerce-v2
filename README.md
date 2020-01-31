@@ -1,1 +1,1 @@
-# big-commerce-c2
+# big-commerce-v2
